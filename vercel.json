@@ -1,0 +1,6 @@
+{
+    "public": "src/pages",
+    "rewrites": [
+      { "source": "/", "destination": "/index.html" }
+    ]
+  }
